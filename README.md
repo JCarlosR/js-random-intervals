@@ -16,4 +16,5 @@ Este ejemplo desarrollado en Javascript permite hacer ello, pero es sólo con fi
 
 ## Videotutorial
 El código se explica y desarrolla paso a paso en el siguiente video: 
-https://www.youtube.com/edit?o=U&video_id=gweSkxmdozo
+
+https://www.youtube.com/watch?v=gweSkxmdozo
